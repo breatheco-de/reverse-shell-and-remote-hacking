@@ -68,13 +68,13 @@ Esto establecerá un listener en la máquina Kali, esperando la conexión desde 
 
   **Nota**: Recuerda reemplazar `"IP-de-Kali"` con la dirección IP de tu máquina Kali Linux.
 
-![imagen](assets/powershell.png)
+![Listening Directory](https://raw.githubusercontent.com/breatheco-de/reverse-shell-and-remote-hacking/main/assets/powershell.png)
 
 <!-- ### Ejecuta comandos remotamente -->
 
 Con el script ejecutándose en Windows, ya puedes enviar comandos desde Kali a través de la sesión Netcat que has iniciado. Aquí tienes algunos comandos útiles para interactuar con la máquina Windows:
 
-![imagen 1](assets/listening_dir.png)
+![Listening Directory](https://raw.githubusercontent.com/breatheco-de/reverse-shell-and-remote-hacking/main/assets/listening_dir.png)
 
 ### Comandos básicos de windows:
 
@@ -86,7 +86,7 @@ Con el script ejecutándose en Windows, ya puedes enviar comandos desde Kali a t
     ```bash
     systeminfo
     ```
-![imagen 2](assets/systeminfo.png)
+![Listening Directory](https://raw.githubusercontent.com/breatheco-de/reverse-shell-and-remote-hacking/main/assets/systeminfo.png)
 
 - **Obtener la configuración de red:**:
     ```bash
@@ -100,7 +100,7 @@ Con el script ejecutándose en Windows, ya puedes enviar comandos desde Kali a t
     ```
 ### Comandos para información detallada:
 
-![imagen 4](assets/hostname.png)
+![Listening Directory](https://raw.githubusercontent.com/breatheco-de/reverse-shell-and-remote-hacking/main/assets/hostname.png)
 
 - **Ver información del equipo**:
     ```bash
@@ -144,8 +144,7 @@ Con el script ejecutándose en Windows, ya puedes enviar comandos desde Kali a t
     ```bash
     exit
     ```
-![imagen 5](assets/exit.png)
-
+![Listening Directory](https://raw.githubusercontent.com/breatheco-de/reverse-shell-and-remote-hacking/main/assets/exit.png)
 
 <!-- hide -->
 
