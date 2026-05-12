@@ -144,8 +144,8 @@ Con el script ejecutándose en Windows, ya puedes enviar comandos desde Kali a t
     ```bash
     exit
     ```
-![imagen 5](https://raw.githubusercontent.com/breatheco-de/reverse-shell-and-remote-hacking/main/assets/exit.png)
 
+![imagen 5](https://raw.githubusercontent.com/breatheco-de/reverse-shell-and-remote-hacking/main/assets/exit.png)
 
 <!-- hide -->
 
